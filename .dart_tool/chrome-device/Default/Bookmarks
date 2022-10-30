@@ -1,0 +1,240 @@
+{
+   "checksum": "4b38b57abd7fa6ae591d010120f05d09",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13269454800875404",
+               "date_last_used": "0",
+               "guid": "ddc70a8d-45f4-497b-a52b-15f47be0b5c4",
+               "id": "21",
+               "name": "Accessories",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=*_us&pf=*&s=*&tp=*&TYPE=3"
+            }, {
+               "date_added": "13269454800891029",
+               "date_last_used": "0",
+               "guid": "223681df-c629-4bda-a8ad-dccda1a65784",
+               "id": "22",
+               "name": "HP Store",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=*&pf=*&s=Hpstore&tp=*&TYPE=3"
+            }, {
+               "date_added": "13269454800891029",
+               "date_last_used": "0",
+               "guid": "ffe52677-0608-4ebf-95df-b7661122c305",
+               "id": "23",
+               "name": "Printing",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=*&pf=*&s=printing&tp=*&TYPE=3"
+            }, {
+               "date_added": "13269454800891029",
+               "date_last_used": "0",
+               "guid": "f2f75685-7003-42ea-a0d6-94211eb6a181",
+               "id": "24",
+               "name": "Software and Driver Downloads",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=*&c=*&locale=en_us&pf=*&s=hp_support&tp=*&TYPE=3"
+            } ],
+            "date_added": "13309908302412583",
+            "date_last_used": "0",
+            "date_modified": "13309908308032222",
+            "guid": "a1f5576d-c414-4728-8f8a-0f64d2767420",
+            "id": "20",
+            "name": "HP",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "1829783e-94aa-4e5b-a245-cd2b894991e4",
+            "id": "25",
+            "name": "Mail.Ru",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://mail.ru/cnt/7993"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "e19a6ffa-a90b-40ab-8ed7-5710d9266dd6",
+            "id": "26",
+            "name": "Поиск в Интернете",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://go.mail.ru/?chrome=1"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "0d14aef9-e6bd-441f-9bb8-201d6c968a62",
+            "id": "27",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "6c1f68ce-63ca-412b-ba9a-57483f781cb1",
+            "id": "28",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "1ad5373a-eba7-43be-9ece-14fd92dfa042",
+            "id": "29",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13309908299495047",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "982ede70-54b6-4a7c-bc2b-432bd5cc60f8",
+               "id": "11",
+               "name": "Bing",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+            }, {
+               "children": [ {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "98353ba6-89d7-43d0-9808-999674f3cd58",
+                  "id": "13",
+                  "name": "Dell Auction",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://www.dellauction.com/"
+               }, {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "854cdcae-c944-467c-91a4-d579b85a5b72",
+                  "id": "14",
+                  "name": "Dell Internet Security",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://support.dell.com/support/topics/global.aspx/support/security/security?c=us&cs=19&l=en&s=dhs"
+               }, {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "2da13cab-8e1f-4e7c-9ccd-c1ad651b7311",
+                  "id": "15",
+                  "name": "Dell",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://www.dell.com/"
+               }, {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "4c60fcea-d0fb-47d8-bf92-3e09df483fde",
+                  "id": "16",
+                  "name": "Support.Dell.Com",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://support.dell.com/"
+               } ],
+               "date_added": "13307915561551582",
+               "date_last_used": "0",
+               "date_modified": "13307915561551582",
+               "guid": "43f3d631-ea14-4bd5-b720-ea87028ba4f6",
+               "id": "12",
+               "name": "Dell",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13307915561551729",
+               "date_last_used": "0",
+               "date_modified": "13307915561551729",
+               "guid": "4769bbea-6441-474c-a7b9-c6e23e355978",
+               "id": "17",
+               "name": "__SFOCUS_STORAGE__",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "34e8bcbe-959c-45aa-9ef6-74da64598a82",
+               "id": "18",
+               "name": "Boite de réception - mail Orange",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://webmail1h.orange.fr/webmail/fr_FR/inbox.html?PAGE=1"
+            } ],
+            "date_added": "13307915561551473",
+            "date_last_used": "0",
+            "date_modified": "13307915561551473",
+            "guid": "2b2f1455-878e-47a9-af5b-55a6382a5c2d",
+            "id": "10",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13307915561551784",
+            "date_last_used": "0",
+            "date_modified": "13307915561551784",
+            "guid": "d425dd8c-dfe1-4a94-b8b1-afc7cbec2dd8",
+            "id": "19",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13309908299495049",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13309908299495050",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cj4KHgiIgQISCDbAqcODAQAAKg4QABgBIAAoBjAAOABAABIAIAEqGEcyZ3MzQnlQbDBBN3lkVzQ2M2VHOXc9PRKnAQgXEqIBChxYZmx6QXREcFlkcWVvRW5vVFI3TStUTTlyV289EiRmZmU1MjY3Ny0wNjA4LTRlYmYtOTVkZi1iNzY2MTEyMmMzMDUYACAAKAAwjp/Mnu8vONCYq4rxL0DQmKuK8S9KHG84WFhGSDFtNGkvYXJEVThqcDB2ZjgrMHk5MD1aHiIcRThMdFdpTnJJelNaOWxtMTBDL0NkRjc5MytVPWUAAAAAEqgBCB0SowEKHHVLcEU5cStXMmJKQ1ROZldLUDM0Tyt0YzZRQT0SJDFhZDUzNzNhLWViYTctNDNiZS05ZWNlLTE0ZmQ5MmRmYTA0MhgAIAAoADCus/jmtDA4vLT45rQwQLy0+Oa0MEoccVZ1WWQvRlpRdWMzQ2ZmWjR1Z1g3YXc4OGM0PVofIh3damhlZncrM1YxRTJIekJPYml1b0p1bWZtYzI4PWUAAAAAEqcBCBYSogEKHENnMW16SFBmWWgxMXpueDczOXJGS1FzNnlWbz0SJDIyMzY4MWRmLWM2MjktNGJkYS1hOGFkLWRjY2RhMWE2NTc4NBgAIAAoADCOn8ye7y84pJmrivEvQKSZq4rxL0ocNEFsbmNFem0vUEo4eS9yOTlZb2wzblhXMGxVPVoeIhxDZVdRL1dqUlRRTlJCZUtVZXdVSkxZaEpZcWc9ZQAAAAASpwEIFRKiAQocRjlMYlhhY1UzS3U1NU5ScmJWcTRGUkl6TVhNPRIkZGRjNzBhOGQtNDVmNC00OTdiLWE1MmItMTVmNDdiZTBiNWM0GAAgACgAMI6fzJ7vLzj1mKuK8S9A9ZirivEvShxLdHBNcEJwekNLUzErZVJJaHdKTUtiRWRDV3c9Wh4iHC9uM3ZVUStxd3UxUkt3NHVNelBiZVNoSjJSbz1lAAAAABKnAQgUEqIBChxiR0wxVzRFQjF0eE9ZSFZhSEJNWkh2bm9vSjg9EiRhMWY1NTc2ZC1jNDE0LTQ3MjgtOGY4YS0wZjY0ZDI3Njc0MjAYACAAKAAwjp/Mnu8vOIWZq4rxL0CFmauK8S9KHFNUSDJBd1ZBbG91Rzlwci85VDk3N05WWDRzcz1aHiIcUGpxZ1doWS94N1FLMVF3L2ZGMUVNUHlpdmhBPWUAAAAAEqcBCBkSogEKHHg3UDFKc2Z2Si91RFB0bERCNFdrbkNBQmxTST0SJDE4Mjk3ODNlLTk0YWEtNGU1Yi1hMjQ1LWNkMmI4OTQ5OTFlNBgAIAAoADCus/jmtDA49rb45rQwQPa2+Oa0MEocVndXeGkvcW9mTU80Rm5DNDdNVElJV0NqUllBPVoeIhxteE5GT3ZDejJ0cXZIQjl4NTJKK3hFVEZWZVU9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOGFkYTRlYzAtYWM5MS01MjNjLTlmZTktZDQyMjE5M2FlNmI2GAAgACgAMPqug+WoMDjKkquK8S9AypKrivEvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgbEqIBChxRenZjOTF3MCtkcHJqMTVmVlgyY0ZlWGpJbzQ9EiQwZDE0YWVmOS1lNmJkLTQ0MWYtOWJiOC0yMDFkNmM5NjhhNjIYACAAKAAwrrP45rQwOJ20+Oa0MECdtPjmtDBKHDQ4NkMzSmhMZnFMVjluMWVFaDJxSVBQZnFtOD1aHiIcdU5RSU03SUloSGlMMjYzNWQxSkpmYkpOU1NVPWUAAAAAEqcBCBgSogEKHDE1MGUwWlBuTXJjOWpYUlB0M2k5cU0yN0NmOD0SJGYyZjc1Njg1LTcwMDMtNDJlYS1hMGQ2LTk0MjExZWI2YTE4MRgAIAAoADCOn8ye7y841pirivEvQNaYq4rxL0ocQXJnYnFza1Q1bGFFSlRXL1lNNG9ZNjM4MFNrPVoeIhxWNzVDNWpKNlh1S0pHcXVJV1pFS1Q5VzN4TFk9ZQAAAAASqAEIEhKjAQocQkNwdUE4eWYyK1AwSG8yNmJVdjZWZDd1STNVPRIkMzRlOGJjYmUtOTU5Yy00NWFhLTllZjYtNzRkYTY0NTk4YTgyGAAgACgAMK6z+Oa0MDiYtvjmtDBAmLb45rQwShw4d1h5WUpxSEJ5czYxbXNucHkydEp0S0ZKNFE9Wh8iHex1NEMxdjV3NlRqU092RUlDRVdkb1A0cVlsK289ZQAAAAASqAEIEBKjAQocbWNrRkxkL0UzeDUvcHF1dStzRFN3VjM0SWVnPRIkNGM2MGZjZWEtZDBmYi00N2Q4LWJmOTItM2UwOWRmNDgzZmRlGAAgACgAMK6z+Oa0MDjptfjmtDBA6bX45rQwShxJanprSkZaUEsrT1QxMUNBUnVGcGFueUFUb3M9Wh8iHdpKWGNYNWdmNkRkWVBHbXNnSTAwU01sbExINHc9ZQAAAAASpwEIExKiAQocTzdualh3YnZ3VWp2REJzMEl5ZjhyakticUxnPRIkZDQyNWRkOGMtZGZlMS00YTk0LWI4YjEtYWZjN2NiZWMyZGQ4GAAgACgAMK6z+Oa0MDi3tvjmtDBAt7b45rQwShxBQVBmSkIzVThzQXFhQys1MDkxWDdycUxoOXc9Wh4iHFBEVVp5ZVF3YzNwMXVFUkY1dFZweVduUG0yQT1lAAAAABKoAQgPEqMBChxUNzBDWUJuS2hCSWxGMVM3eFJza084TjQ4R1E9EiQyZGExM2NhYi04ZTFmLTRlN2MtOWNjZC1jMWFkNjUxYjczMTEYACAAKAAwrrP45rQwONm1+Oa0MEDZtfjmtDBKHHVQeHR6Mm5uN2c1UExvRkhSMWV6TzZRUGNMND1aHyIdtDJuSGFqM0RFSlZpV2VqREkzWFpRa3E2bmtJST1lAAAAABKoAQgREqMBChxRTTJhK0lyaElOS0o0NzBxYzA1M1FTSDdiaWs9EiQ0NzY5YmJlYS02NDQxLTQ3NGMtYTdiOS1jNmUyM2UzNTU5NzgYACAAKAAwrrP45rQwOIi2+Oa0MECItvjmtDBKHEZTNkxOOFFoM0JESXBhVXl0TGxZY2Z0SnY3ST1aHyId2S91SWxzYXUrcytCVTdaa3BuSEtCQTVRS1FUST1lAAAAABKnAQgaEqIBChx4SG0wUjg4bFU4TCt0TGJ1SXQrOUo4UXByM009EiRlMTlhNmZmYS1hOTBiLTQwYWItOGVkNy01NzEwZDkyNjZkZDYYACAAKAAwrrP45rQwOOa2+Oa0MEDmtvjmtDBKHFdzY0VvMUtidkI2TTZ2bWplWXdoMXdueG1ycz1aHiIcb0RwOHBGVEZvcGRtNmZienIvbk56NVF2dmRjPWUAAAAAEqcBCA4SogEKHEJBSmZvZDA4SmkraWVlMjJNRDNQeXI0RXovUT0SJDg1NGNkY2FlLWM5NDQtNDY3Yy05MWE0LWQ1NzliODVhNWI3MhgAIAAoADCus/jmtDA4urX45rQwQLq1+Oa0MEocYndVSS9qNGxLek9WZDhJeEQ3TXFyUHp2K1lZPVoeIhxpM2dyYW80VDU0VWYyVjdXaGZoMTRoZzQ5UW89ZQAAAAASpwEIDRKiAQocbGJncjIxazRCY3lIakZZSHpSQnNUa045Sy9jPRIkOTgzNTNiYTYtODlkNy00M2QwLTk4MDgtOTk5Njc0ZjNjZDU4GAAgACgAMK6z+Oa0MDiatfjmtDBAmrX45rQwShxnY01HakJHR3lOaWx4UnJnQVFyVzZqQmdiSGM9Wh4iHFNQVlFDWC8wcmZaV0p2L2xYd1ZaUHg0elh5ND1lAAAAABKnAQgLEqIBChxoelFkMmNCUFBGb3NGV01NY1UxUCtTb0o0MWM9EiQ5ODJlZGU3MC01NGI2LTRhN2MtYmMyYi00MzJiZDVjYzYwZjgYACAAKAAwrrP45rQwOOu0+Oa0MEDrtPjmtDBKHGpUUlpvNTkvUGRvdU1FR0dtRTczeXhDY0V1UT1aHiIcZ0IyOVRWRmhBM2NBUCtkbHRGY1V1a2hPR2dVPWUAAAAAEqcBCAoSogEKHFduaW94SnlqT2tUMG5BV0lGMnQydUZnNUNuaz0SJDJiMmYxNDU1LTg3OGUtNDdhOS1hZjViLTU1YTYzODJhNWMyZBgAIAAoADCus/jmtDA4zLT45rQwQMy0+Oa0MEocaVh2NHJaaFAyL3pKSVlXcFpsU2MrSjlJdHJjPVoeIhxGY1hNVnVXRWYwaVVHZjZYa3hta0tiVnBzdkE9ZQAAAAASqAEIHBKjAQocVW5PMTFmeGttVDJ3dzhyYW5OMEZKanJ3Q2pzPRIkNmMxZjY4Y2UtNjNjYS00MTJiLWJhOWEtNTc0ODNmNzgxY2IxGAAgACgAMK6z+Oa0MDjHtvjmtDBAx7b45rQwShxyUkdBR1pHWHdGQSthUHh0NVdJYTJMRHo0Smc9Wh8iHboxc3RMVklEQWV5T0xDcjdiZ1lpaGNZOCt1aE09ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNTUyOTRkYWQtNzkyZi01MmQxLTkwODUtYjg0OTVhMDMxMzBmGAAgACgAMPqug+WoMDi7kquK8S9Au5KrivEvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgMEqMBChxCUFIycGxMN09ySEtpbEttTFJZS3pldURCb1k9EiQ0M2YzZDYzMS1lYTE0LTRiZDUtYjcyMC1lYTg3MDI4YmE0ZjYYACAAKAAwrrP45rQwOPu0+Oa0MED7tPjmtDBKHGlVcDJDUEY3R1ZKdkFRUnZHc29XK1d5V3lPbz1aHyIds2U4RzdRTVowZCtEWCtYYmpvaDA3KytkV09YRT1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRhNTIwNzMyYi0xOTY3LTViNzQtODViNS1hNzIyMGU2YWM4NDkYACAAKAAw+q6D5agwOPmSq4rxL0D5kquK8S9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
